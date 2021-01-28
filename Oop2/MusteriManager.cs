@@ -8,7 +8,7 @@ namespace Oop2
     {
         public void Ekle(Musteri musteri)
         {
-            if(musteri.)
+            //if(musteri.)
 
         }
     }
